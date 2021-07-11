@@ -14,4 +14,6 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 pip install -r requirements.txt
 ```
 
+##for more info goto synopsis.pdf
+
 
